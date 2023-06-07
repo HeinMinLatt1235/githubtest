@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 hein min Latt
 A apple in your house 
 B box in you home
 
 X xbox is a singer
+=======
+AIR
+ shoe 
+book
+shirt
+>>>>>>> a66b95b31be50de0aaf67d20d44afe7d8b05d223
